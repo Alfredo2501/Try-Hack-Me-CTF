@@ -41,7 +41,7 @@ If we use the **user-agent** we can get access in the system, so, the answer is 
 
 **2.3 What is the agent name?**  
 
-Using the user-agent in the http header we can get the access, for this I'll use **Burp Suite** to send modified requests and get the access:
+Using the user-agent in the http header we can get the access, for this I'll use **Burp Suite** to send modified requests and get the access:  
 ![Capture](https://github.com/user-attachments/assets/6e458162-0f3d-4a5e-9cf1-f517409576a2)  
 
 Now charging the site in Burp Suite we can modify the header:
