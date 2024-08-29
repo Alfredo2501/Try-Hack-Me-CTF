@@ -1,4 +1,4 @@
-![Chris](https://github.com/user-attachments/assets/9690bb1e-ce4d-4fff-b126-49075400418c)### Agent sudo   
+### Agent sudo   
 
 ```
 You found a secret server located under the deep sea. Your task is to hack inside the server and reveal the truth.
